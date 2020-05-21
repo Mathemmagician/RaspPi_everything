@@ -1,0 +1,4 @@
+Combined/
+*__pychache__
+*ir_hasher.py
+*.pyc
